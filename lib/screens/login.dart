@@ -12,7 +12,7 @@ class MyLogin extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Bienvenido',
+              'Hola, bienvenido',
 
               style: Theme.of(context).textTheme.headline1,
             ),
